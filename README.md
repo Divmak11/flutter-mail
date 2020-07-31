@@ -1,6 +1,6 @@
-# fluttermail
+# FlutterMail
 
-A new Flutter application.
+Simple Demo-UI Gmail Redesign using Flutter.
 
 ## Getting Started
 
